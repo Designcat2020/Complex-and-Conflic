@@ -5,7 +5,7 @@ var config = {
     alignment: 'left',
     toptitle: 'Mapbox Storytelling | Columbia University WEAI',
     title: 'Complex and Conflict: Presidential Election Observe From New York Data',
-    byline: 'By SunYan',
+    byline: 'By Yan Sun',
     image:'image/001.jpg',
     description:"As media projected President-elect Joseph R. Biden Jr. won the vote, and the recount of swing states eventually confirmed this result, President Trump still claimed, <em>\"it\'s going to be a very hard thing to concede.\"</em> Besides, many articles began to focus on the highest voter turnout nearly 160 million people ——the proportion not seen in more than a century. This year, the ongoing COVID-19 pandemic, the BLM movement after the killing of George Floyd, and the U.S. Supreme Court future after the death of Ruth Bader Ginsburg, and others, all of these may spur people to go out to vote，no matter what left or right. The geographic election data related to gender, ethnicities, classes show complexities and conflicts in nowaday American society. <p></p> <small>Illustration:  Wikipedia | Digital Vision Vectors via Getty Images</small>",
     footer: 'This story is based on data by the <a href="https://data.census.gov/">United States Census Bureu</a>, and the <a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ">MIT Election Data + Science Lab</a> and reporting by <a href="https://www.nytimes.com/interactive/2020/11/09/us/politics/2016-election-trump-counties.html?action=click&module=Top%20Stories&pgtype=Homepage">the New York Times.Produce in NYC By YanSun.</a>',
